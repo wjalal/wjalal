@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wasif Jalal</h1>
+<h1 align="center">Hello 👋 I'm Wasif Jalal</h1>
 <h3 align="center">Undergrad senior, full-stack developer, researching bioinformatics with ML</h3>
 
 - 🔭 I’m currently working on organ-specific aging with machine learning models, and brain-age estimation from imaging data.
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=wjalal&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
 &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjalal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
