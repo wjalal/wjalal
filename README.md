@@ -22,7 +22,7 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=wjalal&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=-Reviews" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=wjalal&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=-Reviews,-PullRequest&column=7" alt="GitHub Trophies" />
 
 ---
 
