@@ -3,7 +3,7 @@
   <a href="http://wjalal.xyz" target="_blank">
     🌐 wjalal.xyz
   </a>
-</h3><h3 align="center">Undergrad senior, full-stack developer, researching bioinformatics with ML</h3>
+</h3><h3 align="center">Full-stack developer, CS graduate, researching bioinformatics with ML</h3>
 
 - 🔭 I’m currently working on organ-specific aging with machine learning models, and brain-age estimation from imaging data.
 - 🌱 I’m currently learning advanced applications of transformer-based deep learning architectures.
