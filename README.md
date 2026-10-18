@@ -6,7 +6,7 @@
 </h3><h3 align="center">PhD student in Computer Science at Arizona State University, working on trustworthy AI for health</h3>
 
 - 🔭 I'm currently researching trustworthy and fair AI, foundation models for health, and interpretable models for biomedical informatics and bioinformatics, in the [Ubiquitous and Intelligent Sensing (UIS) Lab](https://uislab.github.io/) at ASU.
-- 📄 Recent work: parameter-efficient fine-tuning and subgroup performance gaps, tissue-specific aging from gene expression ([ORANGE](https://github.com/wjalal/ORANGE), *Briefings in Bioinformatics*), and brain-age estimation from MRI ([BrainRotViT](https://github.com/wjalal/BrainRotViT)).
+- 📄 Recent work: parameter-efficient fine-tuning and subgroup performance gaps, [brain-age estimation from MRI](https://github.com/wjalal/BrainRotViT), and [tissue-specific aging from gene expression](https://github.com/wjalal/ORANGE).
 - 🌱 I'm currently learning more about the geometry of fine-tuning and foundation models for health data.
 - 👯 I'm looking to collaborate on trustworthy AI/ML for health, biomedical imaging, and ubiquitous sensing.
 
